@@ -1,3 +1,5 @@
+***VERY IMPORTANT: READING THE FULL TEXT OF THIS GUIDE IS IMPORTANT AS IT GIVES IMPORTANT CONTEXT ON DOWNGRADING.***
+
 Ah, diving into the intricate world of Single Player Tarkov, are we? It's fantastic to see your enthusiasm for tailoring your experience just the way you like it. Many players, especially those who've spent considerable time navigating the gritty realism of SPT, often ponder the possibilities of revisiting earlier versions. Perhaps a specific patch held a certain charm, a particular balance of loot, or even just a nostalgic feel that resonates with your personal journey through Norvinsk.
 
 It's completely understandable to have this desire. Think back to those early days, the slightly different recoil patterns, the unique spawn distributions, maybe even a particular questline that felt more engaging in its initial iteration. The evolution of SPT has been remarkable, with each update bringing a wave of improvements, new features, and adjustments aimed at refining the overall gameplay loop. However, that doesn't diminish the fondness one might have for a previous state of the game.
